@@ -1,0 +1,13 @@
+{
+"companyName": "AsharaStudios",
+"productName": "UnOceanoBrillante",
+"dataUrl": "UnOceanoBrillanteWeb.data.unityweb",
+"wasmCodeUrl": "UnOceanoBrillanteWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnOceanoBrillanteWeb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"}
+}
