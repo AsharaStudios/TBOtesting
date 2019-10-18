@@ -1,0 +1,16 @@
+{
+"companyName": "AsharaStudios",
+"productName": "UnOceanoBrillante",
+"productVersion": "1.02",
+"dataUrl": "TBO Web.data.unityweb",
+"wasmCodeUrl": "TBO Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "TBO Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
