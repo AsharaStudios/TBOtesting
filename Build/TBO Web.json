@@ -1,7 +1,7 @@
 {
 "companyName": "AsharaStudios",
 "productName": "UnOceanoBrillante",
-"productVersion": "1.04",
+"productVersion": "1.05",
 "dataUrl": "TBO Web.data.unityweb",
 "wasmCodeUrl": "TBO Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "TBO Web.wasm.framework.unityweb",
